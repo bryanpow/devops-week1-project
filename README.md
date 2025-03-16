@@ -1,5 +1,5 @@
 #### **📌 Project Overview:**  
-In this project, you will **deploy a containerized Node.js application** on **Amazon EKS (Elastic Kubernetes Service)** using **Terraform** for infrastructure provisioning, **Helm** for application deployment, and **GitHub Actions** for CI/CD automation.
+In this project, I will **deploy a containerized Node.js application** on **Amazon EKS (Elastic Kubernetes Service)** using **Terraform** for infrastructure provisioning, **Helm** for application deployment, and **GitHub Actions** for CI/CD automation.
 
 ---
 
