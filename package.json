@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "1-project",
+  "version": "1.0.0",
+  "description": "In this project, you will **deploy a containerized Node.js application** on **Amazon EKS (Elastic Kubernetes Service)** using **Terraform** for infrastructure provisioning, **Helm** for application deployment, and **GitHub Actions** for CI/CD automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
